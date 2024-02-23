@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logicadeprogramacao/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logicadeprogramacao/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logicadeprogramacao/TriplePoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise2/Program.java" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oopintro/exercise2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oopintro/exercise2/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +45,16 @@
   "keyToString": {
     "Application.Circle.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.TriplePoints.executor": "Debug",
+    "Application.oopintro.exercise2.Program.executor": "Run",
+    "Application.oopintro.exercise3.Program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -67,7 +63,7 @@
     "settings.editor.splitter.proportion": "0.27420998"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.oopintro.exercise3.Program">
     <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logicadeprogramacao.Circle" />
       <module name="studies-java" />
@@ -94,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logicadeprogramacao.Soma" />
-      <module name="studies-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="logicadeprogramacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TriplePoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logicadeprogramacao.TriplePoints" />
       <module name="studies-java" />
@@ -120,25 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="oopintro.exercise2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopintro.exercise2.Program" />
       <module name="studies-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopintro.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="oopintro.exercise3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopintro.exercise3.Program" />
       <module name="studies-java" />
-      <option name="filePath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oopintro.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oopintro.exercise3.Program" />
+        <item itemvalue="Application.oopintro.exercise2.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.TriplePoints" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Soma" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +155,15 @@
       <option name="presentableId" value="Default" />
       <updated>1708601191842</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1708625868087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708625868087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
