@@ -8,11 +8,39 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("How many dollars do you wish to buy?");
-        double amountToBuy = scanner.nextDouble();
-        System.out.println("What is the current USD value in BRL?");
-        double conversionRatio = scanner.nextDouble();
-        System.out.println("What's the current IOF tax percentage?");
-        double iofTaxPercentage = scanner.nextDouble();
+        int accountNumber;
+        String accountHolderName;
+        double initialDeposit = 0;
+        String initialDepositExists;
+
+        System.out.println("Enter account number:");
+        accountNumber = scanner.nextInt();
+        System.out.println("Enter account holder name:");
+        accountHolderName = scanner.next();
+        System.out.println("Is there a initial deposit?");
+        initialDepositExists = scanner.next();
+        if (initialDepositExists.equals("yes")) {
+            System.out.println("Enter initial deposit value:");
+            initialDeposit = Double.parseDouble(scanner.next());
+        }
+        Account account = new Account(accountNumber, accountHolderName, initialDeposit);
+
+        System.out.println(account.getAccountNumber());
+        System.out.println(account.getAccountHolderName());
+        System.out.println(account.getAccountBalance());
+
+        System.out.println("Enter a deposit value:");
+        account.depositIntoAccount(scanner.nextDouble());
+
+        System.out.println(account.getAccountNumber());
+        System.out.println(account.getAccountHolderName());
+        System.out.println(account.getAccountBalance());
+
+        System.out.println("Enter a withdraw value:");
+        account.withdrawFromAccount(scanner.nextDouble());
+
+        System.out.println(account.getAccountNumber());
+        System.out.println(account.getAccountHolderName());
+        System.out.println(account.getAccountBalance());
     }
 }

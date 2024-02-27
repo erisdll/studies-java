@@ -1,4 +1,4 @@
-package contructors.exercise1.account;
+package contructors.exercise1.Program;
 
 public class Account {
 
@@ -6,11 +6,11 @@ public class Account {
 
     private final int accountNumber;
     private double accountBalance;
-    public Account(String accountHolderName, int accountNumber) {
+    public Account(int accountNumber, String accountHolderName) {
         this.accountHolderName = accountHolderName;
         this.accountNumber = accountNumber;
     }
-    public Account(String accountHolderName, int accountNumber, double accountBalance) {
+    public Account(int accountNumber, String accountHolderName, double accountBalance) {
         this.accountHolderName = accountHolderName;
         this.accountNumber = accountNumber;
         this.accountBalance = accountBalance;
