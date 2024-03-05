@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="constructors exercise 1">
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 1 done">
+      <change afterPath="$PROJECT_DIR$/src/vectors/height/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectors/height/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectors/negatives/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectors/vectorSum/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contructors/exercise1/Program/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contructors/exercise1/Program/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contructors/exercise1/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contructors/exercise1/Program/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,9 @@
     "Application.oopintro.exercise2.Program.executor": "Run",
     "Application.oopintro.exercise3.Program.executor": "Run",
     "Application.oopintro.exercise4.application.Program.executor": "Run",
+    "Application.vectors.exercise1.Program.executor": "Run",
+    "Application.vectors.height.Program.executor": "Run",
+    "Application.vectors.vectorSum.Program.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,13 +69,13 @@
     "settings.editor.splitter.proportion": "0.27420998"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.contructors.exercise1.Program.Program">
+  <component name="RunManager" selected="Application.vectors.height.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopintro.exercise1.Program" />
+      <option name="MAIN_CLASS_NAME" value="vectors.negatives.Program" />
       <module name="studies-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopintro.exercise1.*" />
+          <option name="PATTERN" value="vectors.negatives.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,32 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oopintro.exercise2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopintro.exercise2.Program" />
-      <module name="studies-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopintro.exercise2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oopintro.exercise3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopintro.exercise3.Program" />
-      <module name="studies-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oopintro.exercise3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="oopintro.exercise4.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oopintro.exercise4.application.Program" />
       <module name="studies-java" />
@@ -130,13 +109,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vectors.height.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vectors.height.Program" />
+      <module name="studies-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vectors.height.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vectors.vectorSum.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vectors.vectorSum.Program" />
+      <module name="studies-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vectors.vectorSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vectors.height.Program" />
+        <item itemvalue="Application.vectors.vectorSum.Program" />
+        <item itemvalue="Application.vectors.exercise1.Program" />
         <item itemvalue="Application.contructors.exercise1.Program.Program" />
         <item itemvalue="Application.oopintro.exercise4.application.Program" />
-        <item itemvalue="Application.oopintro.exercise3.Program" />
-        <item itemvalue="Application.oopintro.exercise2.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708976500491</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="constructors exercise 1 done">
+      <option name="closed" value="true" />
+      <created>1709037512918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709037512918</updated>
+    </task>
+    <task id="LOCAL-00006" summary="vectors exercise 1 done">
+      <option name="closed" value="true" />
+      <created>1709665955537</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709665955537</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +227,19 @@
     <MESSAGE value="done 3 exercises" />
     <MESSAGE value="init commit" />
     <MESSAGE value="constructors exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructors exercise 1" />
+    <MESSAGE value="constructors exercise 1 done" />
+    <MESSAGE value="vectors exercise 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 1 done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/vectors/height/Program.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
