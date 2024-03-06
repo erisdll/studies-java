@@ -9,7 +9,7 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("How many persons to add?");
+        System.out.println("How many people to add?");
         int cardinality = scanner.nextInt();
         Person[] peopleVector = new Person[cardinality];
 
@@ -30,5 +30,17 @@ public class Program {
             heightSum += person.getHeight();
         }
         System.out.println("Average Height: " + (heightSum / peopleVector.length*100) / 100.0);
+
+        int minors = 0;
+        for (Person person : peopleVector) {
+            if (person.getAge() < 18) {
+                minors++;
+                System.out.println(
+                        "Name: " + person.getName() +
+                        "\n Age: " + person.getAge() +
+                        "\n Height: " + person.getHeight()
+                        );
+            }
+        }
     }
 }
