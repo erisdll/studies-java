@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 1 done">
-      <change afterPath="$PROJECT_DIR$/src/vectors/height/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectors/height/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectors/negatives/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectors/vectorSum/Program.java" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 3 in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,34 +37,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Circle.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Program.executor": "Run",
-    "Application.Soma.executor": "Run",
-    "Application.TriplePoints.executor": "Debug",
-    "Application.contructors.exercise1.Program.Program.executor": "Run",
-    "Application.oopintro.exercise2.Program.executor": "Run",
-    "Application.oopintro.exercise3.Program.executor": "Run",
-    "Application.oopintro.exercise4.application.Program.executor": "Run",
-    "Application.vectors.exercise1.Program.executor": "Run",
-    "Application.vectors.height.Program.executor": "Run",
-    "Application.vectors.vectorSum.Program.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "settings.editor.splitter.proportion": "0.27420998"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TriplePoints.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.contructors.exercise1.Program.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oopintro.exercise2.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oopintro.exercise3.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oopintro.exercise4.application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vectors.exercise1.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vectors.height.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vectors.vectorSum.Program.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.27420998&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.vectors.height.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vectors.negatives.Program" />
@@ -139,7 +135,6 @@
       <list>
         <item itemvalue="Application.vectors.height.Program" />
         <item itemvalue="Application.vectors.vectorSum.Program" />
-        <item itemvalue="Application.vectors.exercise1.Program" />
         <item itemvalue="Application.contructors.exercise1.Program.Program" />
         <item itemvalue="Application.oopintro.exercise4.application.Program" />
       </list>
@@ -209,7 +204,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709665955537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vectors exercise 2 done">
+      <option name="closed" value="true" />
+      <created>1709665972526</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709665972526</updated>
+    </task>
+    <task id="LOCAL-00008" summary="vectors exercise 3 ni progress">
+      <option name="closed" value="true" />
+      <created>1709665994662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709665994662</updated>
+    </task>
+    <task id="LOCAL-00009" summary="vectors exercise 3 in progress">
+      <option name="closed" value="true" />
+      <created>1709691293948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709691293948</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +248,10 @@
     <MESSAGE value="constructors exercise 1" />
     <MESSAGE value="constructors exercise 1 done" />
     <MESSAGE value="vectors exercise 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 1 done" />
+    <MESSAGE value="vectors exercise 2 done" />
+    <MESSAGE value="vectors exercise 3 ni progress" />
+    <MESSAGE value="vectors exercise 3 in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 3 in progress" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
