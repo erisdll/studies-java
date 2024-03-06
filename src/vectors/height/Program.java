@@ -31,10 +31,10 @@ public class Program {
         }
         System.out.println("Average Height: " + (heightSum / peopleVector.length*100) / 100.0);
 
-        int minors = 0;
+        int minorsCounts = 0;
         for (Person person : peopleVector) {
-            if (person.getAge() < 18) {
-                minors++;
+            if (person.getAge() < 16) {
+                minorsCounts++;
                 System.out.println(
                         "Name: " + person.getName() +
                         "\n Age: " + person.getAge() +
@@ -42,5 +42,10 @@ public class Program {
                         );
             }
         }
+
+        double percentageOfMinors = (double) minorsCounts / peopleVector.length * 100;
+        System.out.println("Percentage of minors under 16: " + percentageOfMinors);
+
+        scanner.close();
     }
 }
