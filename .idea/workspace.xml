@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 3 done">
-      <change afterPath="$PROJECT_DIR$/src/vectors/vectorIndexSum/Program.java" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 4 done">
+      <change afterPath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectors/challenge1/Renter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vectors/vectorIndexSum/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vectors/vectorIndexSum/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +69,13 @@
     "settings.editor.splitter.proportion": "0.27420998"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.vectors.vectorIndexSum.Program">
-    <configuration name="contructors.exercise1.Program.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contructors.exercise1.Program.Program" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vectors.challenge1.Program" />
       <module name="studies-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contructors.exercise1.Program.*" />
+          <option name="PATTERN" value="vectors.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oopintro.exercise4.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopintro.exercise4.application.Program" />
+    <configuration name="contructors.exercise1.Program.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contructors.exercise1.Program.Program" />
       <module name="studies-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oopintro.exercise4.application.*" />
+          <option name="PATTERN" value="contructors.exercise1.Program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.vectors.vectorIndexSum.Program" />
         <item itemvalue="Application.vectors.height.Program" />
         <item itemvalue="Application.vectors.vectorSum.Program" />
         <item itemvalue="Application.contructors.exercise1.Program.Program" />
-        <item itemvalue="Application.oopintro.exercise4.application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +249,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709724893112</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="vectors exercise 4 done">
+      <option name="closed" value="true" />
+      <created>1709726580918</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709726580919</updated>
+    </task>
+    <task id="LOCAL-00013" summary="vectors exercise 4 done">
+      <option name="closed" value="true" />
+      <created>1709726589019</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709726589019</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +289,8 @@
     <MESSAGE value="vectors exercise 3 ni progress" />
     <MESSAGE value="vectors exercise 3 in progress" />
     <MESSAGE value="vectors exercise 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 3 done" />
+    <MESSAGE value="vectors exercise 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
