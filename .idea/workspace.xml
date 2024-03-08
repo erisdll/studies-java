@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors challenge 1 done">
-      <change afterPath="$PROJECT_DIR$/src/lists/challenge1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lists/challenge1/Program.java" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="lists challenge 1 done">
+      <change afterPath="$PROJECT_DIR$/src/matrices/exercise1/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,7 @@
     "Application.TriplePoints.executor": "Debug",
     "Application.contructors.exercise1.Program.Program.executor": "Run",
     "Application.lists.challenge1.Program.executor": "Run",
+    "Application.matrices.exercise1.Program.executor": "Run",
     "Application.oopintro.exercise2.Program.executor": "Run",
     "Application.oopintro.exercise3.Program.executor": "Run",
     "Application.oopintro.exercise4.application.Program.executor": "Run",
@@ -91,7 +90,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lists.challenge1.Program">
+  <component name="RunManager" selected="Application.matrices.exercise1.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vectors.challenge1.Program" />
       <module name="studies-java" />
@@ -111,6 +110,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lists.challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matrices.exercise1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="matrices.exercise1.Program" />
+      <module name="studies-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="matrices.exercise1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,26 +156,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vectors.vectorSum.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vectors.vectorSum.Program" />
-      <module name="studies-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vectors.vectorSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.matrices.exercise1.Program" />
         <item itemvalue="Application.lists.challenge1.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.vectors.vectorIndexSum.Program" />
         <item itemvalue="Application.vectors.height.Program" />
-        <item itemvalue="Application.vectors.vectorSum.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +177,8 @@
       <workItem from="1709736189046" duration="157000" />
       <workItem from="1709740447035" duration="2833000" />
       <workItem from="1709829672732" duration="4173000" />
-      <workItem from="1709896140086" duration="7039000" />
+      <workItem from="1709896140086" duration="7268000" />
+      <workItem from="1709913361507" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -292,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709736316220</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="lists challenge 1 done">
+      <option name="closed" value="true" />
+      <created>1709907407343</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709907407343</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +329,8 @@
     <MESSAGE value="vectors exercise 3 done" />
     <MESSAGE value="vectors exercise 4 done" />
     <MESSAGE value="vectors challenge 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="vectors challenge 1 done" />
+    <MESSAGE value="lists challenge 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lists challenge 1 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
