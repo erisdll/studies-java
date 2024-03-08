@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors exercise 4 done">
-      <change afterPath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vectors/challenge1/Renter.java" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="vectors challenge 1 done">
+      <change afterPath="$PROJECT_DIR$/src/lists/challenge1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/challenge1/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vectors/vectorIndexSum/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vectors/vectorIndexSum/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vectors/challenge1/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;erisdll&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="73242c13-5694-44b0-8d5f-2a8d8c6fc840" />
+        <option name="url" value="https://github.com/erisdll/studies-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -48,6 +62,7 @@
     "Application.Soma.executor": "Run",
     "Application.TriplePoints.executor": "Debug",
     "Application.contructors.exercise1.Program.Program.executor": "Run",
+    "Application.lists.challenge1.Program.executor": "Run",
     "Application.oopintro.exercise2.Program.executor": "Run",
     "Application.oopintro.exercise3.Program.executor": "Run",
     "Application.oopintro.exercise4.application.Program.executor": "Run",
@@ -61,15 +76,22 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/cyberis/Projects/IDEA/curso-java-oop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "settings.editor.splitter.proportion": "0.27420998"
+    "settings.editor.splitter.proportion": "0.27420998",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.lists.challenge1.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vectors.challenge1.Program" />
       <module name="studies-java" />
@@ -83,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="contructors.exercise1.Program.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contructors.exercise1.Program.Program" />
+    <configuration name="lists.challenge1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lists.challenge1.Program" />
       <module name="studies-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contructors.exercise1.Program.*" />
+          <option name="PATTERN" value="lists.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,20 +159,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lists.challenge1.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.vectors.vectorIndexSum.Program" />
         <item itemvalue="Application.vectors.height.Program" />
         <item itemvalue="Application.vectors.vectorSum.Program" />
-        <item itemvalue="Application.contructors.exercise1.Program.Program" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -160,6 +175,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708601191842</updated>
+      <workItem from="1709736189046" duration="157000" />
+      <workItem from="1709740447035" duration="2833000" />
+      <workItem from="1709829672732" duration="4173000" />
+      <workItem from="1709896140086" duration="7039000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -265,8 +284,19 @@
       <option name="project" value="LOCAL" />
       <updated>1709726589019</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="vectors challenge 1 done">
+      <option name="closed" value="true" />
+      <created>1709736316220</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709736316220</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -290,7 +320,8 @@
     <MESSAGE value="vectors exercise 3 in progress" />
     <MESSAGE value="vectors exercise 3 done" />
     <MESSAGE value="vectors exercise 4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="vectors exercise 4 done" />
+    <MESSAGE value="vectors challenge 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="vectors challenge 1 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
