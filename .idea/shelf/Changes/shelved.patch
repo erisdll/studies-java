@@ -1,0 +1,108 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6510d818-f938-4a15-8c32-74f94e47f6dd\" name=\"Changes\" comment=\"init commit\">\n      <change afterPath=\"$PROJECT_DIR$/src/oopintro/exercise4/application/Program.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/oopintro/exercise4/util/CurrencyConverter.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2cijFk10qQ3jF0Q4UBsc6y5cWoq\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.Circle.executor\": \"Run\",\n    \"Application.Main.executor\": \"Run\",\n    \"Application.Program.executor\": \"Run\",\n    \"Application.Soma.executor\": \"Run\",\n    \"Application.TriplePoints.executor\": \"Debug\",\n    \"Application.oopintro.exercise2.Program.executor\": \"Run\",\n    \"Application.oopintro.exercise3.Program.executor\": \"Run\",\n    \"Application.oopintro.exercise4.application.Program.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"full.screen.before.presentation.mode\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\",\n    \"settings.editor.selected.configurable\": \"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\",\n    \"settings.editor.splitter.proportion\": \"0.27420998\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.oopintro.exercise4.application.Program\">\n    <configuration name=\"Program\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"oopintro.exercise1.Program\" />\n      <module name=\"studies-java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"oopintro.exercise1.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"TriplePoints\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"logicadeprogramacao.TriplePoints\" />\n      <module name=\"studies-java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"logicadeprogramacao.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"oopintro.exercise2.Program\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"oopintro.exercise2.Program\" />\n      <module name=\"studies-java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"oopintro.exercise2.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"oopintro.exercise3.Program\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"oopintro.exercise3.Program\" />\n      <module name=\"studies-java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"oopintro.exercise3.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"oopintro.exercise4.application.Program\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"oopintro.exercise4.application.Program\" />\n      <module name=\"studies-java\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"oopintro.exercise4.application.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.oopintro.exercise4.application.Program\" />\n        <item itemvalue=\"Application.oopintro.exercise3.Program\" />\n        <item itemvalue=\"Application.oopintro.exercise2.Program\" />\n        <item itemvalue=\"Application.Program\" />\n        <item itemvalue=\"Application.TriplePoints\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6510d818-f938-4a15-8c32-74f94e47f6dd\" name=\"Changes\" comment=\"\" />\n      <created>1708601191842</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1708601191842</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"init commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1708625868087</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1708625868087</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"init commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1708707141542</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1708707141542</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"init commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1708707833591</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1708707833591</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"done 3 exercises\" />\n    <MESSAGE value=\"init commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"init commit\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8c066815670d2545a283dde8c5f01b54f924829e)
++++ b/.idea/workspace.xml	(date 1708948177964)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="init commit">
+-      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise4/application/Program.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/oopintro/exercise4/util/CurrencyConverter.java" afterDir="false" />
++    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="updates">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -39,29 +37,29 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.Circle.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.Program.executor": "Run",
+-    "Application.Soma.executor": "Run",
+-    "Application.TriplePoints.executor": "Debug",
+-    "Application.oopintro.exercise2.Program.executor": "Run",
+-    "Application.oopintro.exercise3.Program.executor": "Run",
+-    "Application.oopintro.exercise4.application.Program.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "full.screen.before.presentation.mode": "false",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+-    "settings.editor.splitter.proportion": "0.27420998"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Soma.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TriplePoints.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.oopintro.exercise2.Program.executor&quot;: &quot;Run&quot;,
++    &quot;Application.oopintro.exercise3.Program.executor&quot;: &quot;Run&quot;,
++    &quot;Application.oopintro.exercise4.application.Program.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
++    &quot;settings.editor.splitter.proportion&quot;: &quot;0.27420998&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Application.oopintro.exercise4.application.Program">
+     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="oopintro.exercise1.Program" />
+@@ -178,7 +176,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1708707833591</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="updates">
++      <option name="closed" value="true" />
++      <created>1708946902793</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1708946902793</updated>
++    </task>
++    <task id="LOCAL-00005" summary="updates">
++      <option name="closed" value="true" />
++      <created>1708946922329</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1708946922329</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -195,6 +209,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="done 3 exercises" />
+     <MESSAGE value="init commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
++    <MESSAGE value="updates" />
++    <option name="LAST_COMMIT_MESSAGE" value="updates" />
+   </component>
+ </project>
+\ No newline at end of file
