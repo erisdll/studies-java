@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/matrices/challenge1/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrices/challenge1/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="6510d818-f938-4a15-8c32-74f94e47f6dd" name="Changes" comment="a">
+      <change afterPath="$PROJECT_DIR$/src/datetime/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicadeprogramacao/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicadeprogramacao/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logicadeprogramacao/TriplePoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/TriplePoints.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +60,7 @@
     "Application.Soma.executor": "Run",
     "Application.TriplePoints.executor": "Debug",
     "Application.contructors.exercise1.Program.Program.executor": "Run",
+    "Application.datetime.Program.executor": "Run",
     "Application.lists.challenge1.Program.executor": "Run",
     "Application.matrices.challenge1.Program.executor": "Run",
     "Application.matrices.exercise1.Program.executor": "Run",
@@ -87,22 +83,35 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "settings.qodana",
     "settings.editor.splitter.proportion": "0.27420998",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.matrices.challenge1.Program">
+  <component name="RunManager" selected="Application.datetime.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vectors.challenge1.Program" />
       <module name="studies-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="vectors.challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="datetime.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datetime.Program" />
+      <module name="studies-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datetime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,26 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vectors.vectorIndexSum.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vectors.vectorIndexSum.Program" />
-      <module name="studies-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vectors.vectorIndexSum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.datetime.Program" />
         <item itemvalue="Application.matrices.challenge1.Program" />
         <item itemvalue="Application.matrices.exercise1.Program" />
         <item itemvalue="Application.lists.challenge1.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.vectors.vectorIndexSum.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +189,7 @@
       <workItem from="1709896140086" duration="7268000" />
       <workItem from="1709913361507" duration="6581000" />
       <workItem from="1709990438226" duration="15208000" />
+      <workItem from="1710172781039" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -322,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709916706602</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="a">
+      <option name="closed" value="true" />
+      <created>1710159203981</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710159203981</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,7 +358,8 @@
     <MESSAGE value="vectors challenge 1 done" />
     <MESSAGE value="lists challenge 1 done" />
     <MESSAGE value="matrices exercise 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="matrices exercise 1 done" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,6 +368,11 @@
           <url>file://$PROJECT_DIR$/src/vectors/height/Program.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/matrices/challenge1/Program.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
